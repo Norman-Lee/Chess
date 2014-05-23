@@ -1,0 +1,15 @@
+#Java class Files
+*.class
+
+#Executable Jars
+*.jar
+
+#Idea Files
+.idea/workspace.xml
+.idea/tasks.xml
+
+#Out file
+out/
+
+#Log files
+*.log
